@@ -161,4 +161,4 @@ Customer_Churn_Project/
 
 The project successfully predicts customer churn using machine learning and provides a practical solution for telecom companies to enhance customer retention.
 
-
+LINK : https://customer-churn-prediction-for-a-telecom-company-jxz3svkxmn3uuy.streamlit.app
